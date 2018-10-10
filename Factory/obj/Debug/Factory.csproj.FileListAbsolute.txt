@@ -1,0 +1,6 @@
+F:\工作文件夹\DesignMode\Factory\bin\Debug\Factory.pdb
+F:\工作文件夹\DesignMode\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\Factory\obj\Debug\Factory.pdb
+F:\工作文件夹\DesignMode\Factory\bin\Debug\Factory.exe
+F:\工作文件夹\DesignMode\Factory\obj\Debug\Factory.exe

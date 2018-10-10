@@ -1,0 +1,2 @@
+F:\工作文件夹\DesignMode\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache

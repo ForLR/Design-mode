@@ -1,0 +1,7 @@
+F:\工作文件夹\DesignMode\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+F:\工作文件夹\DesignMode\BuilderPattern\bin\Debug\BuilderPattern.exe
+F:\工作文件夹\DesignMode\BuilderPattern\bin\Debug\BuilderPattern.pdb
+F:\工作文件夹\DesignMode\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\BuilderPattern\obj\Debug\BuilderPattern.exe
+F:\工作文件夹\DesignMode\BuilderPattern\obj\Debug\BuilderPattern.pdb

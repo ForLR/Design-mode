@@ -1,0 +1,7 @@
+F:\工作文件夹\DesignMode\Adapter\bin\Debug\Adapter.exe.config
+F:\工作文件夹\DesignMode\Adapter\bin\Debug\Adapter.exe
+F:\工作文件夹\DesignMode\Adapter\bin\Debug\Adapter.pdb
+F:\工作文件夹\DesignMode\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\Adapter\obj\Debug\Adapter.exe
+F:\工作文件夹\DesignMode\Adapter\obj\Debug\Adapter.pdb

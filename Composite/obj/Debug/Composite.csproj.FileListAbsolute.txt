@@ -1,0 +1,7 @@
+F:\工作文件夹\DesignMode\Composite\bin\Debug\Composite.exe.config
+F:\工作文件夹\DesignMode\Composite\bin\Debug\Composite.exe
+F:\工作文件夹\DesignMode\Composite\bin\Debug\Composite.pdb
+F:\工作文件夹\DesignMode\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\Composite\obj\Debug\Composite.exe
+F:\工作文件夹\DesignMode\Composite\obj\Debug\Composite.pdb
