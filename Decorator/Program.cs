@@ -1,7 +1,7 @@
 ﻿using System;
 
 /// <summary>
-/// 装饰模式 //解决不能多继承或者在不改动源代码的同时添加新功能
+/// 装饰模式 解决不能多继承或者在不改动源代码的同时添加新功能
 /// </summary>
 namespace Decorator
 {

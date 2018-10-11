@@ -1,0 +1,7 @@
+F:\工作文件夹\DesignMode\Mediator\bin\Debug\Mediator.exe.config
+F:\工作文件夹\DesignMode\Mediator\bin\Debug\Mediator.exe
+F:\工作文件夹\DesignMode\Mediator\bin\Debug\Mediator.pdb
+F:\工作文件夹\DesignMode\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\Mediator\obj\Debug\Mediator.exe
+F:\工作文件夹\DesignMode\Mediator\obj\Debug\Mediator.pdb

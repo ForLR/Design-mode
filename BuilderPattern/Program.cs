@@ -62,7 +62,7 @@ namespace BuilderPattern
         }
         public class ConcreteBuilder1 : Builder
         {
-            private readonly Computer computer = new Computer();
+            private readonly IComputer computer = new Computer();
             public override void BuildPartCpu()
             {
                 Console.WriteLine("A 构建cpu");
@@ -80,7 +80,7 @@ namespace BuilderPattern
         }
         public class ConcreteBuilder2 : Builder
         {
-            private readonly Computer computer = new Computer();
+            private readonly IComputer computer = new Computer();
             public override void BuildPartCpu()
             {
                 Console.WriteLine("B 构建cpu");
@@ -90,7 +90,6 @@ namespace BuilderPattern
             {
                 Console.WriteLine("B 构建主机");
             }
-
             public override IComputer GetComputer()
             {
                 return computer;

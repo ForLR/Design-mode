@@ -1,0 +1,7 @@
+F:\工作文件夹\DesignMode\Observer\bin\Debug\Observer.exe.config
+F:\工作文件夹\DesignMode\Observer\bin\Debug\Observer.exe
+F:\工作文件夹\DesignMode\Observer\bin\Debug\Observer.pdb
+F:\工作文件夹\DesignMode\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\Observer\obj\Debug\Observer.exe
+F:\工作文件夹\DesignMode\Observer\obj\Debug\Observer.pdb

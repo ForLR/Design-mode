@@ -2,6 +2,7 @@
 
 /// <summary>
 /// 适配器模式 对不支持的方法 进行封装 得到自己能够调用的类型
+/// 有类适配器和对象适配器 推荐对象适配器
 /// </summary>
 namespace Adapter
 {
@@ -60,7 +61,6 @@ namespace Adapter
             {
                 HoleS.SpecificRequest();
             }
-
         }
         #endregion
 

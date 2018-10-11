@@ -1,0 +1,7 @@
+F:\工作文件夹\DesignMode\Flyweight\bin\Debug\Flyweight.exe.config
+F:\工作文件夹\DesignMode\Flyweight\bin\Debug\Flyweight.exe
+F:\工作文件夹\DesignMode\Flyweight\bin\Debug\Flyweight.pdb
+F:\工作文件夹\DesignMode\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\Flyweight\obj\Debug\Flyweight.exe
+F:\工作文件夹\DesignMode\Flyweight\obj\Debug\Flyweight.pdb

@@ -1,0 +1,7 @@
+F:\工作文件夹\DesignMode\Facade\bin\Debug\Facade.exe.config
+F:\工作文件夹\DesignMode\Facade\bin\Debug\Facade.exe
+F:\工作文件夹\DesignMode\Facade\bin\Debug\Facade.pdb
+F:\工作文件夹\DesignMode\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\Facade\obj\Debug\Facade.exe
+F:\工作文件夹\DesignMode\Facade\obj\Debug\Facade.pdb

@@ -1,5 +1,7 @@
 ﻿using System;
-
+/// <summary>
+/// 工厂模式 定义对象的接口或者抽象类，根据具体子类的实现来决定实例化哪个
+/// </summary>
 namespace Factory
 {
     class Program
@@ -14,7 +16,6 @@ namespace Factory
         {
             public abstract void Run();
             public abstract void Price();
-           
         }
         public class Byd : AbstractFactoryCar //具体类继承抽象工厂 实现自己的方法
         {
@@ -22,7 +23,6 @@ namespace Factory
             {
                 Console.WriteLine("1000");
             }
-
             public override void Run()
             {
                 Console.WriteLine("I am Byd and begin Run");
@@ -34,7 +34,6 @@ namespace Factory
             {
                 Console.WriteLine("2000");
             }
-
             public override void Run()
             {
                 Console.WriteLine("I am Fll and begin Run");

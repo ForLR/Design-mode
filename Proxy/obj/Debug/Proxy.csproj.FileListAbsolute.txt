@@ -1,0 +1,7 @@
+F:\工作文件夹\DesignMode\Proxy\bin\Debug\Proxy.exe.config
+F:\工作文件夹\DesignMode\Proxy\bin\Debug\Proxy.exe
+F:\工作文件夹\DesignMode\Proxy\bin\Debug\Proxy.pdb
+F:\工作文件夹\DesignMode\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+F:\工作文件夹\DesignMode\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+F:\工作文件夹\DesignMode\Proxy\obj\Debug\Proxy.exe
+F:\工作文件夹\DesignMode\Proxy\obj\Debug\Proxy.pdb
