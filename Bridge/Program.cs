@@ -1,6 +1,7 @@
 ﻿using System;
 /// <summary>
 /// 桥接模式
+/// 抽象部分和实现部分 分离
 /// </summary>
 namespace Bridge
 {
@@ -28,7 +29,7 @@ namespace Bridge
             public abstract void Watch();
         }
         public class ChangHong : TV
-        {
+        { 
             public override void OFF()
             {
                 Console.WriteLine("ChangHong 关闭");

@@ -1,6 +1,6 @@
 ﻿using System;
 /// <summary>
-/// 外观模式 
+/// 外观模式 ：为子系统中的一组接口提供一个一致的界面，用来访问子系统中的一群接口。
 /// </summary>
 namespace Facade
 {
