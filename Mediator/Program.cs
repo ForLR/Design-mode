@@ -33,10 +33,7 @@ namespace Mediator
         }
         public class B : Preson
         {
-            public override void Attack(int hp, AbstractMediator mediator)
-            {
-                mediator.AttackA(hp);
-            }
+            public override void Attack(int hp, AbstractMediator mediator) => mediator.AttackA(hp);
         }
         public abstract class AbstractMediator
         {
@@ -62,7 +59,7 @@ namespace Mediator
             public override void AttackB(int hp)
             {
                 mediatorA.HP -= hp * 5;
-                mediatorA.HP -= hp * 4;
+                mediatorB.HP -= hp * 4;
             }
         }
     }

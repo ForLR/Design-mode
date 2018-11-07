@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{10303FBE-DACE-4F61-9837-9F3487D1226D}</ProjectGuid>
+    <ProjectGuid>{779252D5-6F73-4531-832C-0F0B6FE8341F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Mediator</RootNamespace>
-    <AssemblyName>Mediator</AssemblyName>
+    <RootNamespace>Summarize</RootNamespace>
+    <AssemblyName>Summarize</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>Mediator.zhongjiezhe</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -48,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="zhongjiezhe.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

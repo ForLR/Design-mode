@@ -1,6 +1,7 @@
 ﻿using System;
 /// <summary>
 /// 代理模式
+/// 控制访问
 /// </summary>
 namespace Proxy
 {
