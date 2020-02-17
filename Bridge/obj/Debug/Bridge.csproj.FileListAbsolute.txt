@@ -5,3 +5,8 @@ F:\工作文件夹\DesignMode\Bridge\obj\Debug\Bridge.csprojAssemblyReference.ca
 F:\工作文件夹\DesignMode\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
 F:\工作文件夹\DesignMode\Bridge\obj\Debug\Bridge.exe
 F:\工作文件夹\DesignMode\Bridge\obj\Debug\Bridge.pdb
+D:\LBD\Design-mode\Bridge\bin\Debug\Bridge.exe.config
+D:\LBD\Design-mode\Bridge\bin\Debug\Bridge.exe
+D:\LBD\Design-mode\Bridge\bin\Debug\Bridge.pdb
+D:\LBD\Design-mode\Bridge\obj\Debug\Bridge.exe
+D:\LBD\Design-mode\Bridge\obj\Debug\Bridge.pdb

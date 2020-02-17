@@ -10,7 +10,7 @@ namespace Summarize
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             抽象工厂.IFactory factory = new 抽象工厂.JeepCarFactory();
             factory.GetCar().GetCar();

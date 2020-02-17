@@ -1,8 +1,11 @@
 ﻿namespace DesignMode
 {
+    /// <summary>
+    /// 懒汉式
+    /// </summary>
     public class Singleton
     {
-            private static  Singleton _singleton=null;
+            private static volatile  Singleton _singleton=null;
             private static readonly object locks = new object();
             private Singleton()
             {
@@ -23,5 +26,35 @@
                 }
                 return _singleton;
             }
+    }
+
+    /// <summary>
+    /// 饱汉式 （1）  利用静态字段唯一一次实例性
+    /// </summary>
+    public class BHSingletonOne
+    {
+        private static BHSingletonOne _singleton = new BHSingletonOne();
+
+        public static BHSingletonOne GetSingleton()
+        {
+            return _singleton;
+        }
+    }
+
+    /// <summary>
+    /// 饱汉式 （2）  利用静态构造函数
+    /// </summary>
+    public class BHSingletonTwo
+    {
+        private static BHSingletonTwo _singleton =null;
+
+        static BHSingletonTwo()
+        {
+            _singleton = new BHSingletonTwo();
+        }
+        public static BHSingletonTwo GetSingleton()
+        {
+            return _singleton;
+        }
     }
 }

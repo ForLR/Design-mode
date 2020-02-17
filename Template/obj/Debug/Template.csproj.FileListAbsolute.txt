@@ -5,3 +5,8 @@ F:\工作文件夹\DesignMode\Template\obj\Debug\Template.csprojAssemblyReferenc
 F:\工作文件夹\DesignMode\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
 F:\工作文件夹\DesignMode\Template\obj\Debug\Template.exe
 F:\工作文件夹\DesignMode\Template\obj\Debug\Template.pdb
+D:\LBD\Design-mode\Template\bin\Debug\Template.exe.config
+D:\LBD\Design-mode\Template\bin\Debug\Template.exe
+D:\LBD\Design-mode\Template\bin\Debug\Template.pdb
+D:\LBD\Design-mode\Template\obj\Debug\Template.exe
+D:\LBD\Design-mode\Template\obj\Debug\Template.pdb

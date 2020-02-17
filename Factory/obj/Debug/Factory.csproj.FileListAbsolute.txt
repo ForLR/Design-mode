@@ -4,3 +4,7 @@ F:\工作文件夹\DesignMode\Factory\obj\Debug\Factory.csproj.CoreCompileInputs
 F:\工作文件夹\DesignMode\Factory\obj\Debug\Factory.pdb
 F:\工作文件夹\DesignMode\Factory\bin\Debug\Factory.exe
 F:\工作文件夹\DesignMode\Factory\obj\Debug\Factory.exe
+D:\LBD\Design-mode\Factory\bin\Debug\Factory.exe
+D:\LBD\Design-mode\Factory\bin\Debug\Factory.pdb
+D:\LBD\Design-mode\Factory\obj\Debug\Factory.exe
+D:\LBD\Design-mode\Factory\obj\Debug\Factory.pdb

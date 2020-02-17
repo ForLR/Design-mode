@@ -1,2 +1,7 @@
 F:\工作文件夹\DesignMode\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
 F:\工作文件夹\DesignMode\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\LBD\Design-mode\Singleton\bin\Debug\Singleton.dll.config
+D:\LBD\Design-mode\Singleton\bin\Debug\Singleton.dll
+D:\LBD\Design-mode\Singleton\bin\Debug\Singleton.pdb
+D:\LBD\Design-mode\Singleton\obj\Debug\Singleton.dll
+D:\LBD\Design-mode\Singleton\obj\Debug\Singleton.pdb

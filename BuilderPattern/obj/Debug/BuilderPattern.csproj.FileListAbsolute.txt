@@ -5,3 +5,8 @@ F:\工作文件夹\DesignMode\BuilderPattern\obj\Debug\BuilderPattern.csprojAsse
 F:\工作文件夹\DesignMode\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
 F:\工作文件夹\DesignMode\BuilderPattern\obj\Debug\BuilderPattern.exe
 F:\工作文件夹\DesignMode\BuilderPattern\obj\Debug\BuilderPattern.pdb
+D:\LBD\Design-mode\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+D:\LBD\Design-mode\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\LBD\Design-mode\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\LBD\Design-mode\BuilderPattern\obj\Debug\BuilderPattern.exe
+D:\LBD\Design-mode\BuilderPattern\obj\Debug\BuilderPattern.pdb

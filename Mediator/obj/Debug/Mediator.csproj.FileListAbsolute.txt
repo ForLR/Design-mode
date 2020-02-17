@@ -5,3 +5,8 @@ F:\工作文件夹\DesignMode\Mediator\obj\Debug\Mediator.csprojAssemblyReferenc
 F:\工作文件夹\DesignMode\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
 F:\工作文件夹\DesignMode\Mediator\obj\Debug\Mediator.exe
 F:\工作文件夹\DesignMode\Mediator\obj\Debug\Mediator.pdb
+D:\LBD\Design-mode\Mediator\bin\Debug\Mediator.exe.config
+D:\LBD\Design-mode\Mediator\bin\Debug\Mediator.exe
+D:\LBD\Design-mode\Mediator\bin\Debug\Mediator.pdb
+D:\LBD\Design-mode\Mediator\obj\Debug\Mediator.exe
+D:\LBD\Design-mode\Mediator\obj\Debug\Mediator.pdb

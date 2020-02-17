@@ -8,6 +8,5 @@ F:\工作文件夹\DesignMode\Decorator\obj\Debug\Decorator.pdb
 D:\LBD\Design-mode\Decorator\bin\Debug\Decorator.exe.config
 D:\LBD\Design-mode\Decorator\bin\Debug\Decorator.exe
 D:\LBD\Design-mode\Decorator\bin\Debug\Decorator.pdb
-D:\LBD\Design-mode\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
 D:\LBD\Design-mode\Decorator\obj\Debug\Decorator.exe
 D:\LBD\Design-mode\Decorator\obj\Debug\Decorator.pdb

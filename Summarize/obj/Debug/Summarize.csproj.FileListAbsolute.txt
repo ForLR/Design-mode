@@ -5,3 +5,8 @@ F:\工作文件夹\DesignMode\Summarize\bin\Debug\Summarize.exe
 F:\工作文件夹\DesignMode\Summarize\bin\Debug\Summarize.pdb
 F:\工作文件夹\DesignMode\Summarize\obj\Debug\Summarize.exe
 F:\工作文件夹\DesignMode\Summarize\obj\Debug\Summarize.pdb
+D:\LBD\Design-mode\Summarize\bin\Debug\Summarize.exe.config
+D:\LBD\Design-mode\Summarize\bin\Debug\Summarize.exe
+D:\LBD\Design-mode\Summarize\bin\Debug\Summarize.pdb
+D:\LBD\Design-mode\Summarize\obj\Debug\Summarize.exe
+D:\LBD\Design-mode\Summarize\obj\Debug\Summarize.pdb
