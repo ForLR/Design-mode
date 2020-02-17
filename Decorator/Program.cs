@@ -12,10 +12,10 @@ namespace Decorator
         static void Main(string[] args)
         {
             Phone phone = new ApplePhone();
-            Decorator decorator1 = new Sticker(phone);
-            Decorator decorator2 = new Mug(phone);
-            decorator1.Print();
-            decorator2.Print();
+            phone = new Sticker(phone);
+            phone = new Mug(phone);
+            phone.Print();
+
             Console.ReadKey();
         }
         public abstract class Phone  
@@ -79,6 +79,7 @@ namespace Decorator
             }
             public override void Print()
             {
+                base.Print();
                 MakePhotos();
             }
             public void MakePhotos()
